@@ -1,5 +1,5 @@
-<h1 align="center">Hi! We are Calm Games</h1>
-<h3 align="center">Gaming Calmly</h3>
+<h1>Hi! We are Calm Games</h1>
+<h3>Gaming Calmly</h3>
 
 - 🔭 We are currently working on [Dino May Die](https://liluo.io/games/b1fe76e2-2d99-4871-aef3-00dc3e0090c4)
 
