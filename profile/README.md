@@ -5,8 +5,6 @@
 
 - 👯 We are looking to collaborate on [CraftyJS](https://github.com/craftyjs/Crafty)
 
-- 🤝 I’m looking for help with [Dino May Die](https://liluo.io/games/b1fe76e2-2d99-4871-aef3-00dc3e0090c4)
-
 - 👨‍💻 All of our projects are available at [https://projects.infrared.ga](https://projects.infrared.ga)
 
 - 📫 How to reach us **rodney@infrared.ga**
