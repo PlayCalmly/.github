@@ -9,7 +9,7 @@
 
 - 📫 How to reach us **rodney@infrared.ga**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/playcalmly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="playcalmly" height="30" width="40" /></a>
 </p>
